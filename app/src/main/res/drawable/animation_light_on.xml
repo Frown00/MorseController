@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+                android:oneshot="true">
+    <item
+        android:duration="0"
+        android:drawable="@drawable/light00"/>
+
+    <item
+        android:duration="50"
+        android:drawable="@drawable/light01"/>
+
+
+    <item
+        android:duration="50"
+        android:drawable="@drawable/light02"/>
+
+    <item
+        android:duration="50"
+        android:drawable="@drawable/light03"/>
+
+</animation-list>

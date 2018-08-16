@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Morse Trainer</string>
+    <string name="show_table_of_codes">Show table of codes</string>
+    <string name="customize_duration_of_short_signal">Duration of short signal</string>
+    <string name="customize_time_of_broadcast_morse_code">Time to display letter</string>
+
+    <string-array name="recognizedMorseCode">
+        <item>01</item>
+        <item>1000</item>
+        <item>1010</item>
+        <item>100</item>
+        <item>0</item>
+        <item>0010</item>
+        <item>110</item>
+        <item>0000</item>
+        <item>00</item>
+        <item>0111</item>
+        <item>101</item>
+        <item>0100</item>
+        <item>11</item>
+        <item>10</item>
+        <item>111</item>
+        <item>0110</item>
+        <item>1101</item>
+        <item>010</item>
+        <item>000</item>
+        <item>1</item>
+        <item>001</item>
+        <item>0001</item>
+        <item>011</item>
+        <item>1001</item>
+        <item>1011</item>
+        <item>1100</item>
+        <item>01111</item>
+        <item>00111</item>
+        <item>00011</item>
+        <item>00001</item>
+        <item>00000</item>
+        <item>10000</item>
+        <item>11000</item>
+        <item>11100</item>
+        <item>11110</item>
+        <item>11111</item>
+    </string-array>
+
+    <string-array name="answerForMorseCode">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>0</item>
+    </string-array>
+</resources>
